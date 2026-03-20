@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Index"
+  short_description: "Build agent-first paper indexes"
+  default_prompt: "Use $paper-index to build or query an agent-first local paper library with Level 1 and Level 2 indexes."
